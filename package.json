@@ -1,0 +1,15 @@
+{
+  "name": "chap6_projet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.5",
+    "psql": "^0.0.1"
+  }
+}

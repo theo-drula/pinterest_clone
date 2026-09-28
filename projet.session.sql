@@ -1,0 +1,1 @@
+UPDATE orientations SET orientation='paysage' WHERE orientation='payasage';
