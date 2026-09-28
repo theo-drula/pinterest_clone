@@ -23,3 +23,20 @@ Suivez ces étapes pour exécuter le projet en local sur votre ordinateur :
    ```bash
    git clone [https://github.com/theo-drula/pinterest_clone.git](https://github.com/theo-drula/pinterest_clone.git)
    cd pinterest_clone
+
+2. **Installer les dépendances :**
+
+
+    ```bash
+    npm install
+
+3. **Lancer le serveur :***
+
+    ```bash
+    node server
+
+Ouvrez votre navigateur et accédez à l'adresse de votre application http://localhost:9541
+
+📝 Auteur
+
+    Théo Drula - @theo-drula
