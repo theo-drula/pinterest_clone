@@ -30,10 +30,10 @@ Suivez ces étapes pour exécuter le projet en local sur votre ordinateur :
     ```bash
     npm install
 
-3. **Lancer le serveur :***
+3. **Lancer le serveur :**
 
     ```bash
-    node server
+    node server2.js
 
 Ouvrez votre navigateur et accédez à l'adresse de votre application http://localhost:9541
 
